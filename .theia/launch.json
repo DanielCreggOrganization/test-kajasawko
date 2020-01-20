@@ -1,0 +1,11 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - HelloWorld",
+         "request": "launch",
+         "mainClass": "ie.gmit.packagename.HelloWorld",
+         "projectName": "test-kajasawko_2b70ea8e"
+      }
+   ]
+}
